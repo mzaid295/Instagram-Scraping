@@ -18,6 +18,7 @@ Make sure you have **Instaloader** installed. You can install it using:
 
 ```bash
 pip install instaloader
+```bash
 
 Instagram Scraping with Instaloader
 Welcome to the Instagram Scraping repository! This project utilizes the Instaloader library to gather information about Instagram profiles, including user details, posts, followers, and followees. Whether you want to explore your own profile or analyze someone else's, this script provides a foundation for Instagram scraping.
