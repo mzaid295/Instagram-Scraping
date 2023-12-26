@@ -102,3 +102,9 @@ Feel free to contribute to this project by forking the repository and submitting
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Need Help or Have Questions?
+
+If you have any questions, need assistance, or want to share your thoughts, feel free to reach out! You can contact me via email at [mzaid295@gmail.com](mailto:mzaid295@gmail.com).
+
+**Happy Coding!**
